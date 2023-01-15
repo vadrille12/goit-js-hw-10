@@ -10,6 +10,12 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  margin-left: 15px;
+}
+
+li {
+  list-style: none;
+  padding: 0;
 }
 
 #search-box {
@@ -17,4 +23,20 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.title-bold {
+  font-weight: 700;
+}
+
+.text {
+  margin: 0;
+  margin-bottom: 10px;
 }
