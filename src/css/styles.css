@@ -18,6 +18,18 @@ li {
   padding: 0;
 }
 
+.header {
+  background-color: #666666;
+  padding: 20px 20px;
+  margin-bottom: 20px;
+  color: #fafafa;
+
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.07em;
+}
+
 #search-box {
   font: inherit;
   padding: 8px;
